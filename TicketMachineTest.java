@@ -37,7 +37,7 @@ public class TicketMachineTest {
             pm = itTroco.next();
             System.out.print(pm.getQuantidade() + " ");
             System.out.println(pm.getValor());
-        }
+        } 
 
     }
 }
